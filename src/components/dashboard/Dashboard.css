@@ -1,0 +1,7 @@
+.list-item:hover {
+    cursor: pointer;
+}
+
+.breadcrumb-item:hover {
+    cursor: pointer;
+}
